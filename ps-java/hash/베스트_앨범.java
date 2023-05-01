@@ -1,5 +1,5 @@
 // 베스트 앨범 - 레벨 3
-// qriorityQueue로 해결
+// priorityQueue로 해결
 
 import java.util.*;
 
